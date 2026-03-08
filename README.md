@@ -135,10 +135,6 @@ http://127.0.0.1:5000/
 Watch the complete **5–7 minute project demonstration**
 🔗 https://your-video-link.com
 
-📄 **Full Documentation (PDF Report)**
-Detailed explanation of methodology, analysis, and results
-🔗 [https://your-pdf-link.com](tablue project HDA.pdf)
-
 📊 **Tableau Public Dashboard**
 Explore the **interactive visualization dashboard**
 🔗[ https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/HeartDiseaseDashboard_17729486203830/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -166,10 +162,7 @@ Visualization Design
 **Manav Patil**
 
 GitHub
-https://github.com/yourusername
-
-LinkedIn
-https://linkedin.com/in/yourprofile
+https://github.com/Manav78/Heart_Disease_
 
 ---
 
