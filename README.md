@@ -7,14 +7,14 @@
 
 # 📑 Table of Contents
 
-* [About the Project](#about-the-project)
-* [Technical Workflow](#technical-workflow)
-* [Key Insights & Visualizations](#key-insights--visualizations)
-* [Tech Stack](#tech-stack)
-* [How to Run](#how-to-run)
-* [Project Assets](#project-assets)
-* [The Team](#the-team)
-* [Connect With Me](#connect-with-me)
+## About the Project
+## Technical Workflow
+## Key Insights and Visualizations
+## Tech Stack
+## How to Run
+## Project Assets
+## The Team
+## Connect With Me
 
 ---
 
