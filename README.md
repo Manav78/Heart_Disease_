@@ -18,7 +18,7 @@
 
 ---
 
-# 📌 About the Project
+## 📌 About the Project
 
 This project was developed as a **college team assignment** to analyze **cardiovascular disease risk factors**.
 
@@ -28,7 +28,7 @@ The project combines **SQL preprocessing, Tableau visualization, and Flask web i
 
 ---
 
-# ⚙️ Technical Workflow
+## ⚙️ Technical Workflow
 
 ## 1️⃣ Data Acquisition & SQL Preprocessing
 
@@ -58,7 +58,7 @@ The project combines **SQL preprocessing, Tableau visualization, and Flask web i
 
 ---
 
-# 📊 Key Insights & Visualizations
+## 📊 Key Insights & Visualizations
 
 ### 👥 Demographic Analysis
 
@@ -78,7 +78,7 @@ Overlap analysis of patients suffering from both **Diabetes** and **Stroke**.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -103,7 +103,7 @@ Overlap analysis of patients suffering from both **Diabetes** and **Stroke**.
 
 ---
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 ## 1️⃣ Install Flask
 
@@ -129,7 +129,7 @@ http://127.0.0.1:5000/
 
 ---
 
-# 📂 Project Assets
+## 📂 Project Assets
 
 🎬 **Video Walkthrough**
 Watch the complete **5–7 minute project demonstration**
@@ -141,23 +141,20 @@ Explore the **interactive visualization dashboard**
 
 ---
 
-# 👨‍💻 The Team
+## 👨‍💻 The Team
 
-**Tanaya Kagale**
-Team Lead
 
 **Manav Patil**
-Technical Integration & Recording
+
+**Tanaya Kagale**
 
 **Swaranjali Mohite**
-Data Analysis
 
 **Shweta Patil**
-Visualization Design
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
 **Manav Patil**
 
